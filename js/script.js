@@ -25,3 +25,4 @@ console.log(Number.isNaN(20 / 0));
 console.log(Number.isFinite(20));
 console.log(Number.isFinite('20'));
 console.log(Number.isFinite(+'20x'));
+console.log(Number.isFinite(20 / 0));
