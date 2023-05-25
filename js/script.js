@@ -9,3 +9,6 @@ console.log(0.1 + 0.2 === 0.3);
 // Convert to number
 console.log(Number('12'));
 console.log(+'12');
+
+// Parse string to number
+console.log(Number.parseInt('15px'));
