@@ -22,3 +22,6 @@ console.log(Math.round(23.9));
 
 console.log(Math.ceil(24.3));
 console.log(Math.ceil(24.9));
+
+console.log(Math.floor(20.3));
+console.log(Math.floor(20.9));
