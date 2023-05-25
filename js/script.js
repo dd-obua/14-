@@ -18,3 +18,4 @@ console.log(Number.parseFloat('3.5rem', 10));
 // Check if a something is not a number using NaN
 console.log(Number.isNaN(20));
 console.log(Number.isNaN('20'));
+console.log(Number.isNaN(+'20x'));
