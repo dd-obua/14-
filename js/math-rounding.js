@@ -29,3 +29,4 @@ console.log(Math.floor(20.9));
 console.log(Math.trunc(23.3));
 
 console.log(Math.trunc(-23.3));
+console.log(Math.floor(-23.3));
