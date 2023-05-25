@@ -10,3 +10,9 @@ const isEven = n => n % 2 === 0;
 console.log(isEven(8));
 console.log(isEven(9));
 console.log(isEven(10));
+console.log();
+
+const isOdd = n => n % 2 === 1;
+console.log(isOdd(11));
+console.log(isOdd(12));
+console.log(isOdd(13));
