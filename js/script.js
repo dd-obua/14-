@@ -13,3 +13,4 @@ console.log(+'12');
 // Parse string to number
 console.log(Number.parseInt('15px', 10));
 console.log(Number.parseInt('e23', 10));
+console.log(Number.parseFloat('3.5rem', 10));
