@@ -12,3 +12,4 @@ console.log(+'12');
 
 // Parse string to number
 console.log(Number.parseInt('15px'));
+console.log(Number.parseInt('e23'));
