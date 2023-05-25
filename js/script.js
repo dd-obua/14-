@@ -20,3 +20,8 @@ console.log(Number.isNaN(20));
 console.log(Number.isNaN('20'));
 console.log(Number.isNaN(+'20x'));
 console.log(Number.isNaN(20 / 0));
+
+// Check if something is a number using isFinite
+console.log(Number.isFinite(20));
+console.log(Number.isFinite('20'));
+console.log(Number.isFinite(+'20x'));
