@@ -16,7 +16,7 @@ const getRandomInt = (min, max) =>
 console.log(getRandomInt(1, 5));
 console.log();
 
-// Round numbers
+// Round integers
 console.log(Math.round(23.3));
 console.log(Math.round(23.9));
 
