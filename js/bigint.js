@@ -19,3 +19,5 @@ console.log(20n > 15);
 console.log(20n === 20);
 console.log(20n == 20);
 console.log(typeof 20n);
+
+console.log(huge + ' is really big!!!');
