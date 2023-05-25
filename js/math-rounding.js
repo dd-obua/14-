@@ -14,3 +14,8 @@ console.log(Math.trunc(Math.random() * 6) + 1);
 const getRandomInt = (min, max) =>
   Math.floor(Math.random() * (max - min)) + min;
 console.log(getRandomInt(1, 5));
+console.log();
+
+// Round numbers
+console.log(Math.round(23.3));
+console.log(Math.round(23.9));
