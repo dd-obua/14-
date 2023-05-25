@@ -26,3 +26,9 @@ console.log(Number.isFinite(20));
 console.log(Number.isFinite('20'));
 console.log(Number.isFinite(+'20x'));
 console.log(Number.isFinite(20 / 0));
+
+// Check if something is an integer
+console.log(Number.isInteger(20));
+console.log(Number.isInteger(23.0));
+console.log(Number.isInteger(23.5));
+console.log(Number.isInteger(20 / 0));
