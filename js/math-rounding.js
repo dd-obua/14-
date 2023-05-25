@@ -10,3 +10,7 @@ console.log(Math.min(2, 3, '53', 5, 29, 2, 14));
 console.log(Math.PI * Number.parseFloat('10px') ** 2);
 
 console.log(Math.trunc(Math.random() * 6) + 1);
+
+const getRandomInt = (min, max) =>
+  Math.trunc(Math.random() * (max - min)) + min;
+console.log(getRandomInt(1, 5));
