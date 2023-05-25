@@ -19,3 +19,6 @@ console.log();
 // Round numbers
 console.log(Math.round(23.3));
 console.log(Math.round(23.9));
+
+console.log(Math.ceil(24.3));
+console.log(Math.ceil(24.9));
