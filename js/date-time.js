@@ -25,3 +25,6 @@ console.log(future.toISOString());
 console.log(future.getTime());
 
 console.log(Date.now());
+
+console.log(future.setFullYear('2026'));
+console.log(future);
