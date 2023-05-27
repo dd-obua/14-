@@ -1,7 +1,8 @@
 'use strict';
 
 const ingredients = ['olives', 'spinach'];
-setTimeout(
+
+const pizzaTimer = setTimeout(
   (ingred1, ingred2) =>
     console.log(`Here is your ${ingred1} and ${ingred2} pizza.`),
   3000,
