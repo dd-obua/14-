@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  position: relative;
+  font-family: sans-serif;
+}
+
+.time {
+  background: #eee;
+  height: 15rem;
+  width: 15rem;
+  text-align: center;
+  margin: auto auto;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 2rem;
+}
